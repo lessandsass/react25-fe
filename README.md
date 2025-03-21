@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 # react25-fe
 Build 25 react project by learning the FreeCodeCamp tutorial 
 
+=======
+>>>>>>> c19386a (Initial commit)
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
